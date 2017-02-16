@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native-cli": "^2.0.1",
+    "watchman": "^0.1.8"
+  },
+  "name": "hitmas",
+  "description": "merry hitmas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericwalters/hitmas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericwalters/hitmas/issues"
+  },
+  "homepage": "https://github.com/ericwalters/hitmas#readme"
+}
